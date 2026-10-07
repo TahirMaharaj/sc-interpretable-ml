@@ -1,7 +1,9 @@
 # Interpretable ML on single-cell RNA-seq (early stage)
 
 Early-stage self-project exploring interpretable machine learning for
-single-cell data.
+single-cell data. This project was developed with AI assistance (Claude) 
+as a learning exercise. I ran and adapted the code and worked through
+each step to understand it.
 
 ## What is done
 - Loaded the public PBMC 3k single-cell dataset (scanpy)
